@@ -1,5 +1,5 @@
 body {
-    background: #051435;
+    background: #8d86f8;
     text-align: center;
 }
 
@@ -7,16 +7,16 @@ h1 {
     margin: 25px;
     font-family: 'Courier New', Courier, monospace;
     font-style: oblique;
-    color: rgb(28, 113, 125);
+    color: rgb(199, 236, 241);
     font-size: 3em;
 }
 
 button {
     margin: 40px 5px auto;
     text-align: center;
-    color: #1da345;
-    background: #696969;
-    border: solid 2px #808080;
+    color: #0b0c0c;
+    background: #eb8d8d;
+    border: solid 2px #f80404;
     border-radius: 5px;
     padding: 16px 42px 16px;
     letter-spacing: 2px;
